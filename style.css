@@ -1,0 +1,24 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: gainsboro;
+}
+
+table {
+    width: 650px;
+}
+
+thead {
+    background-color: rgba(0, 0, 247, 0.76);
+    color: aliceblue;
+}
+
+* {
+    text-align: center;
+}
